@@ -1,0 +1,14 @@
+{
+  "rows": [
+    {
+       "idd"                  : "01",
+       "title"                : "Alet",  
+       "message"              : "New Update Available ",
+       "img_url"              : "The latest update to this app has just been released",
+       "accept_Button_text"   : "update",
+       "accept_Button_Link"   : "Your App Link",
+       "accept_Dialog_Close"  : "true", // true or flase
+       "cancel_Dialog_Close"  : "true" // true or flase
+    }
+  ]
+}
