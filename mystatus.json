@@ -5,7 +5,7 @@
        "title"                : "🔰 Alet 🔰",  
        "message"              : "Welcome to Google Analytics! With Analytics in your toolkit, you can uncover valuable new insights about how people interact with your website, your app, and across devices.
 To get started, follow these easy steps to set-up measurement for your website and/or app ",
-       "img_url"              : "The latest update to this app has just been released",
+       "img_url"              : "https://scontent.xx.fbcdn.net/v/t39.30808-6/309922877_1503818350042107_8611913709495572575_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF8mPeIcCS1eU_hSsXYuJUzsGab_vDH_-GwZpv-8Mf_4f3YlTLopBrqUcOlbhx4DR7xVJTq3U4ADnZe_sB02BT_&_nc_ohc=jUkyjfhPIBwAX-DFrVr&tn=8KLAgL9VZqLcDpfb&_nc_ht=scontent.xx&oh=00_AT95VTtt7dcdbxDK3g2OczhVSLdilWKQk1Fs9XmeCCsMXA&oe=635A3093",
        "accept_Button_text"   : "Go",
        "accept_Button_Link"   : "Your App Link",
        "cancel_Dialog_Close"  : "true" // true or flase
