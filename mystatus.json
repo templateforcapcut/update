@@ -1,21 +1,14 @@
 {
   "rows": [
     {
-       "idd"                  : "00",
-       "title"                : "🔰 Another app of ours 🔰",  
-       "message"              : " ඔබට,
-
-✅ Download කරන්න බැරි Tiktok වීඩියෝ Download කරන්න.
-✅ TikTok Video Watermark නැතුව Download කරන්න.
-✅ Video වගේම Song එකත් Download කරන්න.
-      
-මෙන්න නියම Tiktok Video Donload App එකක්
-වැඩි විස්තර සදහා පහත ලින්ක් එකෙන් වීඩියෝ එක බලන්න.
-     https://www.youtube.com/shorts/rXoFN4v5oXk 
-App එක ගන්න ඕන අය පහත Download Button ක්ලික් කරන්න ",
-       "img_url"              : "https://raw.githubusercontent.com/templateforcapcut/otherapp/main/tikllodim.png",
-       "accept_Button_text"   : "Download",
-       "accept_Button_Link"   : "https://play.google.com/store/apps/details?id=com.cy.tikloader",
+       "idd"                  : "05",
+       "title"                : Mayam (මායම්) Rahal Alwis Ft Skay Jay",  
+       "message"              : " ඔන්න සින්දුව Release උනා 💎
+ඔයාලගේ හැම Comment එකක්ම මට වටිනවා 🙏❤️
+ඒක නිසා හැමෝගෙන් ම ආදරෙන් ඉල්ලනවා YouTube එකට ගිහින් Comment එකක් ඕනි කියලා ... ආදරෙයි 🫂❤️ ",
+       "img_url"              : "https://bit.ly/3QMaORl",
+       "accept_Button_text"   : "View Song",
+       "accept_Button_Link"   : "https://youtu.be/QRbGWUo6Rfk",
        "cancel_Dialog_Close"  : "true" // true or flase
     }
   ]
