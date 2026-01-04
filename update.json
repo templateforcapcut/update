@@ -1,15 +1,14 @@
 {
-  "//rows": [
+  "rows": [
     {
-      "Version_code"         : 1.6,  // Change Version name of the new update
+      "Version_code"         : 3.5.0,  // Change Version name of the new update
       "Update_Title"         : " නවතම විශේෂාංග රැසක් සමගින් නවතම App Update එක නිකුත් වී ඇත. ",
       "Update_Message"       : "New Ui
-Tiktok Trending category හදුන්වා දී ඇත.
-
-වඩාත් නිවරදිව Update එක ඔබේ දුරකතනයට ඇතුලත් කර ගැනීම  සදහා App එක Uninstall කර නැවත ඉන්ස්ට්‍රෝල් කරන්න. නැතහොත් ඇප් එක Update කර ඇප් එකෙහි ඩේටා ක්ලියර් කරන්න. ",
+Tiktok Trending category හදුන්වා දී ඇත. ",
       "Update_Button_text"   : "update",
       "Link"                 : "https://play.google.com/store/apps/details?id=com.cy.templateforcapcut",
-      "Update_Dialog_Close"  : "true" // Allows you to cancel the update dialog
+      "Update_Dialog_Close"  : "false" // Allows you to cancel the update dialog
     }
   ]
 }
+
